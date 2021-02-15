@@ -1,0 +1,12 @@
+coca cola,soda drink,fizzy,red label,trade secret formula,American
+burger king,fast food,whooper,restaurant,fries,franchise
+wallace and gromit,aardman animations,Claymation,cheese,dog,english
+roy keane,football,irish,world cup,professional,cork
+new york,usa,empire state building,city,east,central park
+cork,irish county,UCC,city,river lee,blackrock
+germany,country,berlin,west europe,stuttgart,frankfurt
+cape town,south africa,peninsula,table mountain,capital,bay
+galway,ireland,west,hometown,boats,gaeltacht
+robots,automatic,electronic,programmed,EV3,cool
+christmas,December,religious,holiday,Jesus,advent
+ducks,birds,swim,pond,water,bread
